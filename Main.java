@@ -16,7 +16,7 @@ public class HelloWorld {
               System.out.println("modification variables en arguments");
 
               System.out.println("addition de la case 0");
-              System.out.println("modification variables en arguments");
+              System.out.println("creation de deux tableau de long d'une case");
               System.out.println("modification variables en arguments");
               System.out.println("modification variables en arguments");
               System.out.println("modification variables en arguments");
