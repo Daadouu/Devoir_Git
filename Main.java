@@ -21,7 +21,7 @@ public class HelloWorld {
               System.out.println("2.3.1 Ecrivez la classe décriteci-dessus");
               System.out.println("2.3.2 Ecrivez dans la classe Coordonnees");
               System.out.println("2.3.3 creer une methode statique qui prendra deux arguement de type coordonnées");
-              System.out.println("modification variables en arguments");
+              System.out.println("2.3.4 Créez deux isntance de la classe coordonnées avec des valeurs différente");
               System.out.println("modification variables en arguments");
 
 
